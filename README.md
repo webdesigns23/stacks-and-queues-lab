@@ -1,5 +1,5 @@
 # Lab: Stacks and Queues  
-**Lab GitHub Repo**: [Stacks and Queues](https://github.com/your-org/stacks-and-queues-lab)
+**Lab GitHub Repo**: [Stacks and Queues](https://github.com/learn-co-curriculum/stacks-and-queues-lab)
 
 ---
 
